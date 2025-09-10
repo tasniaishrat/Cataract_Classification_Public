@@ -58,3 +58,17 @@ Extend detection to other eye diseases (Glaucoma, Diabetic Retinopathy, etc.)
 Implement severity grading of cataracts (mild, moderate, severe)
 
 Telemedicine integration for remote diagnosis and consultation
+
+# Privacy Notice
+
+This repository contains only a partial version of the project for demonstration purposes. The full source code and dataset are not shared publicly due to privacy and research restrictions.
+
+# The Accuracy Of Fundus <img width="958" height="441" alt="image" src="https://github.com/user-attachments/assets/48e57729-b7bb-4167-a815-358ebec68d71" />
+# The Accuracy of Digital <img width="912" height="334" alt="image" src="https://github.com/user-attachments/assets/7ab99e11-e823-4209-b427-d2fd7b6875fb" />
+
+# There is two Screenshot of my Application:
+<img width="361" height="730" alt="image" src="https://github.com/user-attachments/assets/704b5737-76de-4921-9599-9f1d29a64825" />
+<img width="370" height="719" alt="image" src="https://github.com/user-attachments/assets/ad021be7-8830-445c-bdeb-a9db5aa1af05" />
+
+
+
